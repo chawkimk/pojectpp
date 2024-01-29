@@ -1,0 +1,152 @@
+{
+    "home": {
+        "title": "Global Warming",
+        "subtitle": "votre tableau de bord sur le réchauffement climatique",
+        "dashboard": {
+            "accordion_1": {
+                "title": "Qu'est-ce que le réchauffement climatique ?",
+                "content": "Le réchauffement climatique ou changement climatique fait référence aux changements à long terme des températures et des modèles météorologiques. Ces changements peuvent être naturels, tels que les variations du cycle solaire. Cependant, depuis les années 1800, les activités humaines ont été le principal moteur du changement climatique, principalement en raison de la combustion de combustibles fossiles tels que le charbon, le pétrole et le gaz. La combustion de combustibles fossiles génère des émissions de gaz à effet de serre qui agissent comme une couverture enveloppant la Terre, piégeant la chaleur du soleil et augmentant les températures.",
+                "description": "source: Nations Unies"
+            },
+            "accordion_2": {
+                "title": "Quels sont les gaz à effet de serre ?",
+                "content": "Les gaz qui retiennent la chaleur dans l'atmosphère sont appelés gaz à effet de serre. Les principaux gaz à effet de serre dans l'atmosphère terrestre sont la vapeur d'eau (H2O), le dioxyde de carbone (CO2), le méthane (CH4), le protoxyde d'azote (N2O) et l'ozone (O3). Des exemples d'émissions de gaz à effet de serre qui provoquent le changement climatique comprennent le dioxyde de carbone et le méthane. Ceux-ci proviennent de l'utilisation d'essence pour conduire une voiture ou du charbon pour chauffer un bâtiment, par exemple. La déforestation peut également libérer du dioxyde de carbone. Les décharges pour les déchets sont une source majeure d'émissions de méthane. L'énergie, l'industrie, les transports, les bâtiments, l'agriculture et l'utilisation des terres figurent parmi les principaux émetteurs.",
+                "description": "source: Agence de protection de l'environnement des États-Unis"
+            },
+            "chart": {
+                "title": "Causes du réchauffement climatique (%)",
+                "description": "source: Agence de protection de l'environnement des États-Unis",
+                "details": [
+                    "Production d'énergie",
+                    "Production de biens",
+                    "Déforestation",
+                    "Transport",
+                    "Fourniture d'électricité pour les bâtiments",
+                    "Autre"
+                ]
+            },
+            "video": {
+                "title": "Effets du réchauffement climatique",
+                "description": "source: National Geographic"
+            },
+            "data": {
+                "title": "Graphiques en direct",
+                "description": "source: global-warming.org",
+                "chartSelector": [
+                    "Température",
+                    "CO2",
+                    "Méthane",
+                    "NO2",
+                    "Glaciers"
+                ]
+            },
+            "timer": {
+                "title": "Temps restant avant qu'il ne soit trop tard",
+                "description": "pour maintenir le réchauffement climatique à moins de 1,5 °C, les émissions de gaz à effet de serre doivent être réduites de 45 % d'ici 2030."
+            },
+            "contribute": {
+                "title": "Contribuer",
+                "description": "découvrez comment contribuer à lutter contre la crise climatique dès maintenant !"
+            }
+        }
+    },
+    "temperature": {
+        "title": "Température",
+        "subtitle": "Anomalies de température mondiales de 1880 à nos jours",
+        "chart": {
+            "labelX": "Année",
+            "labelY": "° Celsius"
+        },
+        "description": "Le taux actuel de réchauffement climatique n'est pas naturel. De 1880 à 1981, il était de (0,07 °C / 0,13 °F) par décennie, et depuis 1981, ce taux a augmenté à (0,18 °C / 0,32 °F). L'augmentation totale de la température mondiale moyenne depuis la révolution industrielle est d'environ (1,0 °C / 1,8 °F), et l'hémisphère nord de la Terre se réchauffe plus rapidement. L'Arctique s'est réchauffé entre (2 °C / 3,6 °F) et (4 °C / 7,2 °F). La température de la Terre et la proportion de gaz tels que le CO2, le méthane et le protoxyde d'azote dans l'atmosphère sont strictement corrélées."
+    },
+    "co2": {
+        "title": "Dioxyde de carbone",
+        "subtitle": "Niveaux de dioxyde de carbone de 2012 à nos jours",
+        "chart": {
+            "labelX": "Année",
+            "labelY": "ppm"
+        },
+        "description": "Pendant des millénaires, la concentration naturelle de CO2 dans l'atmosphère terrestre était d'environ 280 ppm. Depuis le début de la révolution industrielle, les activités humaines telles que la combustion de combustibles fossiles, la déforestation et l'élevage ont augmenté cette quantité de plus de 30 %."
+    },
+    "methane": {
+        "title": "Méthane",
+        "subtitle": "Niveaux de méthane de 1983 à nos jours",
+        "chart": {
+            "labelX": "Année",
+            "labelY": "ppb"
+        },
+        "description": "Le méthane est un gaz inflammable formé par des processus géologiques et biologiques. Certains des processus naturels incluent les fuites des systèmes de gaz naturel et les zones humides. De 50 à 65 % des émissions mondiales totales de méthane proviennent des activités humaines, notamment l'élevage, l'agriculture, les systèmes pétroliers et gaziers, les déchets des foyers et des entreprises, les décharges, etc. Le méthane est un gaz ayant un potentiel de réchauffement planétaire plusieurs fois plus fort que celui du CO2. Pendant plus de 650 000"
+    },
+    "no2": {
+        "title": "Protoxyde d'azote",
+        "subtitle": "Niveaux de protoxyde d'azote de 2001 à nos jours",
+        "chart": {
+            "labelX": "Année",
+            "labelY": "ppb"
+        },
+        "description": "Le protoxyde d'azote est un gaz produit par la combustion de combustibles fossiles et de déchets solides, les engrais azotés, les stations d'épuration, les processus naturels et d'autres activités agricoles et industrielles. C'est le troisième plus grand gaz piégeur de chaleur dans l'atmosphère et le plus grand composé détruisant la couche d'ozone émis par les activités humaines."
+    },
+    "glaciers": {
+        "title": "Glace polaire",
+        "subtitle": "Étendue de la glace de mer arctique depuis 1979",
+        "chart": {
+            "labelX": "Année",
+            "labelY": "Million de km²",
+            "légende_1": "étendue",
+            "légende_2": "surface"
+        },
+        "description": "L'Arctique se réchauffe environ deux fois plus vite que la moyenne mondiale. Certaines des raisons de cela sont l'amplification de l'Arctique, l'effet albedo et le carbone noir. De 1979 à 1996, nous avons perdu 2,2 à 3 % de la couverture de glace arctique. De 2010 à nos jours, nous perdons 12,85 % par décennie ! Une autre conséquence est la fonte du pergélisol. Il s'agit d'un processus au cours duquel de grandes quantités de méthane sont libérées dans l'atmosphère, alimentant davantage le processus de réchauffement climatique."
+    },
+    "contribute": {
+        "title": "Contribuer avec ces dix actions",
+        "subtitle": "Chacun peut contribuer à limiter le changement climatique et le réchauffement de la planète. De la manière dont nous voyageons, à l'électricité que nous utilisons et à la nourriture que nous mangeons, nous pouvons faire une différence. Cliquez sur chacune de ces dix actions pour aider à lutter contre la crise climatique.",
+        "flipCard": {
+            "title": [
+                "Économiser de l'énergie à la maison",
+                "Marcher, faire du vélo ou prendre les transports en commun",
+                "Manger plus de légumes",
+                "Réfléchir à vos déplacements",
+                "Ne pas gaspiller la nourriture",
+                "Réduire, réutiliser, réparer et recycler",
+                "Changer la source d'énergie de votre domicile",
+                "Passer à un véhicule électrique",
+                "Choisir des produits écologiques",
+                "Faire entendre sa voix"
+            ],
+            "description": [
+                "Une grande partie de notre électricité et de notre chaleur provient du charbon, du pétrole et du gaz. Utilisez moins d'énergie en baissant votre chauffage et votre climatisation, en passant à des ampoules LED et des appareils électroménagers écoénergétiques, en lavant votre linge à l'eau froide, ou en suspendant les vêtements pour les faire sécher au lieu d'utiliser un sèche-linge.",
+                "Les routes du monde sont encombrées de véhicules, dont la plupart brûlent du diesel ou de l'essence. Marcher ou faire du vélo au lieu de conduire réduira les émissions de gaz à effet de serre et contribuera à votre santé et à votre forme physique. Pour les distances plus longues, envisagez de prendre le train ou le bus. Et faites du covoiturage chaque fois que possible.",
+                "Manger plus de légumes, de fruits, de céréales complètes, de légumineuses, de noix et de graines, et moins de viande et de produits laitiers, peut réduire significativement votre impact environnemental. La production d'aliments d'origine végétale entraîne généralement moins d'émissions de gaz à effet de serre et nécessite moins d'énergie, de terres et d'eau.",
+                "Les avions brûlent de grandes quantités de combustibles fossiles, produisant d'importantes émissions de gaz à effet de serre. Cela fait des voyages en avion l'un des moyens les plus rapides de réduire votre impact environnemental. Quand c'est possible, rencontrez virtuellement, prenez le train, ou renoncez à ce voyage lointain.",
+                "Lorsque vous jetez de la nourriture, vous gaspillez également les ressources et l'énergie qui ont été utilisées pour la cultiver, la produire, l'emballer et la transporter. Et lorsque la nourriture pourrit dans une décharge, elle produit du méthane, un puissant gaz à effet de serre. Utilisez ce que vous achetez et compostez les restes.",
+                "Les appareils électroniques, les vêtements et autres articles que nous achetons génèrent des émissions de carbone à chaque étape de la production, de l'extraction des matières premières à la fabrication et au transport des marchandises sur le marché. Pour protéger notre climat, achetez moins de choses, achetez d'occasion, réparez ce que vous pouvez et recyclez.",
+                "Demandez à votre compagnie d'électricité si votre énergie domestique provient du pétrole, du charbon ou du gaz. Si possible, voyez si vous pouvez passer à des sources renouvelables telles que l'éolien ou le solaire. Ou installez des panneaux solaires sur votre toit pour générer de l'énergie pour votre domicile.",
+                "Si vous envisagez d'acheter une voiture, envisagez d'opter pour un modèle électrique, avec de plus en plus de modèles disponibles sur le marché. Même s'ils fonctionnent toujours à l'électricité produite à partir de combustibles fossiles, les voitures électriques contribuent à réduire la pollution de l'air et émettent significativement moins de gaz à Choisissez judicieusement les biens et services que vous soutenez. Pour réduire votre impact environnemental, achetez des aliments locaux et de saison, et choisissez des produits de sociétés qui utilisent les ressources de manière responsable et s'engagent à réduire leurs émissions de gaz et leurs déchets.",
+            "Exprimez-vous et incitez les autres à se joindre à l'action. C'est l'un des moyens les plus rapides et les plus efficaces de faire une différence. Parlez à vos voisins, collègues, amis et famille. Faites savoir aux propriétaires d'entreprises que vous soutenez des changements audacieux. Faites appel aux dirigeants locaux et mondiaux pour agir dès maintenant."
+        ]
+    }
+},
+"pageNotFound": {
+    "errorNumber": "404",
+    "errorMessage": "Désolé, la page que vous recherchez est introuvable :("
+},
+"components": {
+    "navLinks": [
+        "Accueil",
+        "Température",
+        "CO2",
+        "Méthane",
+        "NO2",
+        "Glaciers",
+        "Contribuer"
+    ],
+    "footer": "Réalisé avec 🌱 par",
+    "infoButton": "plus d'infos",
+    "apiError": {
+        "error": {
+            "404": "Désolé, impossible de trouver les données :(",
+            "other": "Désolé, impossible de charger les données. Veuillez réessayer ultérieurement."
+        }
+    }
+}
+}

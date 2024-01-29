@@ -1,0 +1,27 @@
+/* GLOBAL STYLES */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  font-family: 'Rubik', sans-serif;
+  color: #000;
+  background-color: #c0f3cb;
+}
+
+#root {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #75ff7e;
+}
